@@ -47,3 +47,6 @@ https://www.youtube.com/watch?v=C0uY8I7065E
 
 ～河口湖～富士山パノラマロープウェイ　富士山絶景ライブ配信中！
 https://www.youtube.com/watch?v=yOKn755TA3U
+
+東京都内移動ライブカメラ【FSX公式】/Tokyo City Live Camera
+https://www.youtube.com/watch?v=QllcQZ9ekXo
