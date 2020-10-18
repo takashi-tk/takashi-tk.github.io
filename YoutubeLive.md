@@ -1,4 +1,4 @@
-# Japan live webcam
+# Japan live webcams
 
 Sakurajima and Kagoshima city in Japan / 上野城ライブカメラ 桜島と鹿児島市内 ※音付き（作業用にも)
 https://www.youtube.com/watch?v=WCzHpvAoYRY
