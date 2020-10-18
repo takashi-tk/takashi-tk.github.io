@@ -3,6 +3,9 @@
 Sakurajima and Kagoshima city in Japan / 上野城ライブカメラ 桜島と鹿児島市内 ※音付き（作業用にも)
 https://www.youtube.com/watch?v=WCzHpvAoYRY
 
+Asosan live / 阿蘇ライブカメラ～阿蘇火山博物館・草千里～
+https://www.youtube.com/watch?v=aGCv8cPDvYo
+
 Fujisan live / ～河口湖～富士山パノラマロープウェイ　富士山絶景ライブ配信中！
 https://www.youtube.com/watch?v=MFB4ZHTJeuc
 
