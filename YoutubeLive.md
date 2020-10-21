@@ -57,6 +57,5 @@ https://www.youtube.com/watch?v=yOKn755TA3U
 東京都内移動ライブカメラ【FSX公式】/Tokyo City Live Camera
 https://www.youtube.com/watch?v=QllcQZ9ekXo
 
-LIVE CAMERA】🍀京都 東本願寺前 ライブカメラ🍀 KYOTO JAPAN LIVE CAMERA 森信三郎商舗から生中継
-
+【LIVE CAMERA】🍀京都 東本願寺前 ライブカメラ🍀 KYOTO JAPAN LIVE CAMERA 森信三郎商舗から生中継
 https://www.youtube.com/watch?v=uPKKxQeXM58
