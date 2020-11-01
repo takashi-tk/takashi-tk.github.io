@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=aGCv8cPDvYo
 Fujisan live / ～河口湖～富士山パノラマロープウェイ　富士山絶景ライブ配信中！
 https://www.youtube.com/watch?v=MFB4ZHTJeuc
 
+上高地河童橋ライブカメラ KAMIKOCHI KAPPA-BASHI LIVE CAMERA
+https://www.youtube.com/watch?v=PolNHIqy4YI
+
 Fukuoka airport / 空港ライブカメラ　福岡空港 4K
 https://www.youtube.com/watch?v=AcBvgPTL9cg
 
