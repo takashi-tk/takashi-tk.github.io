@@ -12,8 +12,9 @@
 
 - Wagner Composer : https://github.com/spite/Wagner
 
+## Particles
 - Partykals : https://github.com/RonenNess/partykals
-- Shader Particle Engine : https://squarefeet.github.io/ShaderParticleEngine/  
+- Shader Particle Engine : https://squarefeet.github.io/ShaderParticleEngine/  
 
 ## Timeline
 - Timeliner : https://github.com/zz85/timeliner
