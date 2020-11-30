@@ -133,7 +133,10 @@ https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
 - Spherical Helix : https://codepen.io/discoverthreejs/pen/GdQpbd?editors=0010
 - https://www.webdesignertrends.com/2018/09/webgl-three-js/
 - https://github.com/mnmxmx
-- https://github.com/TheCodeTherapy/plexus-shadershttps://codepen.io/agalliat/pen/vYGXJxQ?editors=0010 Celestial body : https://github.com/TheoGil/celestial-bodieshttps://codepen.io/FabienMotte/pen/dYqYzw
+- https://github.com/TheCodeTherapy/plexus-shaders
+- https://codepen.io/agalliat/pen/vYGXJxQ?editors=0010
+- Celestial body : https://github.com/TheoGil/celestial-bodies
+- https://codepen.io/FabienMotte/pen/dYqYzw
 
 # Inspirations
 - https://www.thisiscolossal.com/2018/04/animation-of-sinusoidal-waves-in-gifs-by-etienne-jacob/
