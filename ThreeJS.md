@@ -4,11 +4,11 @@
 - Blurry : https://tympanus.net/codrops/2019/10/01/simulating-depth-of-field-with-particles-using-the-blurry-library/
 - Ashima noise : https://github.com/ashima/webgl-noise/
 - THREE Buffer Animation System : https://github.com/zadvorsky/three.bas
-- ControlKit : https://github.com/automat/controlkit.js/
 - Globe.gl : https://github.com/vasturiano/globe.gl
 - Extended Camera Control : https://github.com/yomotsu/camera-controls
 - Three UI : https://github.com/felixmariotto/three-mesh-ui
 - CustomShaderMaterial : https://github.com/FarazzShaikh/THREE-CustomShaderMaterial
+- JS Easing functions : https://github.com/bameyrick/js-easing-functions
 
 - Wagner Composer : https://github.com/spite/Wagner
 
@@ -19,6 +19,9 @@
 ## Timeline
 - Timeliner : https://github.com/zz85/timeliner
 - TimelineJS : https://github.com/vorg/timeline.js
+
+## GUI
+- ControlKit : https://github.com/automat/controlkit.js/
 
 # Base : 
 - 3D Cube Loop : https://codepen.io/quentinhocde/pen/qEvvba?editors=0010  
