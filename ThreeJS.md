@@ -2,7 +2,6 @@
 - ThreeJS : https://threejs.org/
 - Meshline : https://github.com/spite/THREE.MeshLine
 - Blurry : https://tympanus.net/codrops/2019/10/01/simulating-depth-of-field-with-particles-using-the-blurry-library/
-- Timeliner : https://github.com/zz85/timeliner
 - Ashima noise : https://github.com/ashima/webgl-noise/
 - THREE Buffer Animation System : https://github.com/zadvorsky/three.bas
 - ControlKit : https://github.com/automat/controlkit.js/
@@ -15,6 +14,10 @@
 
 - Partykals : https://github.com/RonenNess/partykals
 - Shader Particle Engine : https://squarefeet.github.io/ShaderParticleEngine/  
+
+## Timeline
+- Timeliner : https://github.com/zz85/timeliner
+- TimelineJS : https://github.com/vorg/timeline.js
 
 # Base : 
 - 3D Cube Loop : https://codepen.io/quentinhocde/pen/qEvvba?editors=0010  
