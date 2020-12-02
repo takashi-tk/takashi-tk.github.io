@@ -20,6 +20,10 @@
 - Timeliner : https://github.com/zz85/timeliner
 - TimelineJS : https://github.com/vorg/timeline.js
 
+## Animation
+- GSAP : https://greensock.com/gsap/
+- Popmotion : https://popmotion.io/pure/
+
 ## GUI
 - ControlKit : https://github.com/automat/controlkit.js/
 
