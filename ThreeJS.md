@@ -29,11 +29,11 @@
 
 # Base : 
 - 3D Cube Loop : https://codepen.io/quentinhocde/pen/qEvvba?editors=0010  
-- https://codepen.io/_alvin/pen/vlGeB?editors=0010
+- Three.js Basic template (Codepen) : https://codepen.io/_alvin/pen/vlGeB?editors=0010
 - Lab City 3D : https://codepen.io/vcomics/pen/aGmoae
 - ShapeFile : https://threejs.org/examples/webgl_geometry_extrude_shapes2.html
 - GEOJSon : https://observablehq.com/@mbostock/geojson-in-three-js
-- https://bl.ocks.org/wboykinm/40c971ef2a46b6b2036c5664242b2e89
+- GeoJSON in Three.js : https://bl.ocks.org/wboykinm/40c971ef2a46b6b2036c5664242b2e89
 - GEOJson Test : https://bl.ocks.org/marcopompili/f5e071ce646c5cf3d600828ace734ce7
 - Rendering 100k spheres, instantiating and draw calls: https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/
 - 2 Cameras : https://stackoverflow.com/questions/54973801/use-one-orbitcontrols-with-two-cameras-in-threejs
@@ -75,13 +75,13 @@ OnBeforeCompile : https://codepen.io/prisoner849/pen/BvxBPW?editors=0010
 Experiments with Perlin noise : https://www.clicktorelease.com/blog/experiments-with-perlin-noise/
 https://www.mapzen.com/blog/behind-the-scenes-tron2/
 Stripes Shader : https://andreashackel.de/tech-art/stripes-shader-2/
-https://codepen.io/mnmxmx/pen/BdjdMz
+Twisted Torus & Sphere : https://codepen.io/mnmxmx/pen/BdjdMz
 Bad TV : https://github.com/felixturner/bad-tv-shader
 Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
-https://codepen.io/deadlocked247/pen/ExjGmXd?editors=0010
+Painted FBM w controls : https://codepen.io/deadlocked247/pen/ExjGmXd?editors=0010
 https://adinunz.io/interstellar/
-https://codepen.io/dev_loop/pen/NWNMYvv?editors=1010
-https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
+Noisy Blob : https://codepen.io/dev_loop/pen/NWNMYvv?editors=1010
+Shader Template: https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
 
 # ShaderToy
 - Glitches : https://www.shadertoy.com/view/XtK3W3
@@ -98,7 +98,7 @@ https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
 - Grid : https://www.shadertoy.com/view/WlsyR2
 - Sigmoid contrast : https://www.shadertoy.com/view/MtX3z2
 - Demo : https://www.shadertoy.com/view/4dBcDK
-- https://www.shadertoy.com/view/wdSXzK
+- Hypnoferromagnetism: https://www.shadertoy.com/view/wdSXzK
 - Shipped HUD : https://www.shadertoy.com/view/tsycWW
 
 # GLSL Sandbox
@@ -106,8 +106,8 @@ https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
 - http://glslsandbox.com/e#53340.0
 
 # Particles
-- https://codepen.io/enesser/pen/jdenE?editors=0010
-- Particle Shape Tween: https://airtightinteractive.com/demos/js/hello/
+- Three.js Particle Test : https://codepen.io/enesser/pen/jdenE?editors=0010
+- Particle Shape Tween : https://airtightinteractive.com/demos/js/hello/
 - Interactive Particles with Three.js : https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
 
 # CURL Noise
