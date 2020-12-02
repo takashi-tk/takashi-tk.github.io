@@ -1,3 +1,5 @@
+Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
+
 # Libraries
 - ThreeJS : https://threejs.org/
 - Meshline : https://github.com/spite/THREE.MeshLine
@@ -9,12 +11,14 @@
 - Three UI : https://github.com/felixmariotto/three-mesh-ui
 - CustomShaderMaterial : https://github.com/FarazzShaikh/THREE-CustomShaderMaterial
 - JS Easing functions : https://github.com/bameyrick/js-easing-functions
+- MagicShader : https://github.com/luruke/magicshader
 
 - Wagner Composer : https://github.com/spite/Wagner
 
 ## Particles
 - Partykals : https://github.com/RonenNess/partykals
-- Shader Particle Engine : https://squarefeet.github.io/ShaderParticleEngine/  
+- Shader Particle Engine : https://squarefeet.github.io/ShaderParticleEngine/
+- Three Nebula : https://github.com/creativelifeform/three-nebula
 
 ## Timeline
 - Timeliner : https://github.com/zz85/timeliner
@@ -26,6 +30,7 @@
 
 ## GUI
 - ControlKit : https://github.com/automat/controlkit.js/
+- UIL : https://github.com/lo-th/uil
 
 # Base : 
 - 3D Cube Loop : https://codepen.io/quentinhocde/pen/qEvvba?editors=0010  
@@ -44,6 +49,9 @@
 - ThreeJS Annotations : https://manu.ninja/webgl-three-js-annotations/
 - Create noisy line sphere : https://pastebin.com/4Q69ygZB
 
+# Preloader
+https://jsfiddle.net/takashi_tk/at9ow1z7/1/
+
 # Taking Hires screenshot
 https://discourse.threejs.org/t/what-is-the-alternative-to-take-high-resolution-picture-rather-than-take-canvas-screenshot/3209/8
 https://codepen.io/discoverthreejs/pen/GdQpbd
@@ -60,6 +68,7 @@ Kinetic Typography with Three.js: https://tympanus.net/codrops/2020/06/02/kinet
 Converts a .ttf font file: https://github.com/soimy/msdf-bmfont-xml/
 
 # Shaders
+- Experiments for digital #inktober 2020: https://github.com/spite/sketch
 Shader - Calculate depth relative to Object: https://stackoverflow.com/questions/26328666/shader-calculate-depth-relative-to-object
 Depth as distance to camera plane in GLSL: https://stackoverflow.com/questions/16131963/depth-as-distance-to-camera-plane-in-glsl
 Shader spline : https://callumprentice.github.io/apps/shader_spline/index.html
@@ -82,6 +91,8 @@ Painted FBM w controls : https://codepen.io/deadlocked247/pen/ExjGmXd?editors=00
 https://adinunz.io/interstellar/
 Noisy Blob : https://codepen.io/dev_loop/pen/NWNMYvv?editors=1010
 Shader Template: https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
+- Fresnel : https://codepen.io/Fyrestar/pen/RzVLYd?editors=0010
+- Neon Love : https://codepen.io/al-ro/pen/BaaBage?editors=0010
 
 # ShaderToy
 - Glitches : https://www.shadertoy.com/view/XtK3W3
@@ -109,6 +120,7 @@ Shader Template: https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
 - Three.js Particle Test : https://codepen.io/enesser/pen/jdenE?editors=0010
 - Particle Shape Tween : https://airtightinteractive.com/demos/js/hello/
 - Interactive Particles with Three.js : https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
+- Particle vortex : https://jsfiddle.net/eso3x0ox/13/
 
 # CURL Noise
 - https://codepen.io/timseverien/pen/EmJNOR
@@ -127,8 +139,14 @@ Shader Template: https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
 
 # Examples
 - https://stemkoski.github.io/Three.js/
+- https://github.com/ykob/sketch-threejs
 - https://alteredqualia.com/
+- https://callumprentice.github.io/
+- https://mrdoob.com/#/158/threejs_sketches
+- https://github.com/gkjohnson/threejs-sandbox
+
 - Glossy Sphere : https://medium.com/@soffritti.pierfrancesco/glossy-spheres-in-three-js-bfd2785d4857
+- Mesh Deformation Study with a Sphere : https://medium.com/@qinzitan/mesh-deformation-study-with-a-sphere-ceee37d47e32
 - Create a Wave Motion Effect on an Image with Three.js: https://tympanus.net/codrops/2020/03/17/create-a-wave-motion-effect-on-an-image-with-three-js/
 - Particle Love : https://particle-love.com/
 - Volumetric Light Scattering in three.js : https://codepen.io/abberg/pen/pbWkjg?editors=0010
@@ -148,6 +166,9 @@ Shader Template: https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
 - https://codepen.io/agalliat/pen/vYGXJxQ?editors=0010
 - Celestial body : https://github.com/TheoGil/celestial-bodies
 - https://codepen.io/FabienMotte/pen/dYqYzw
+- Drawing curves on WebGL Globe using THREE.js and D3 : https://medium.com/@xiaoyangzhao/drawing-curves-on-webgl-globe-using-three-js-and-d3-draft-7e782ffd7ab
+- Nucleus : https://codepen.io/Mamboleoo/pen/Bppdda?editors=0010
+- 3D particles exploration : https://github.com/jackrugile/3d-particle-explorations
 
 # Inspirations
 - https://www.thisiscolossal.com/2018/04/animation-of-sinusoidal-waves-in-gifs-by-etienne-jacob/
@@ -176,3 +197,6 @@ Shader Template: https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
 - https://medium.com/creative-coding-space/up-and-running-in-three-js-9e53ffe8ecef
 - https://www.jotform.com/blog/20-exceptional-three-js-experiments-98740/
 - Rick And Morty Portal Shader : https://codepen.io/pizza3/pen/JjKjbZY 
+- https://zalo.github.io/
+- https://github.com/yagiz/Andromeda
+- https://github.com/nudibranchrecords/hedron
