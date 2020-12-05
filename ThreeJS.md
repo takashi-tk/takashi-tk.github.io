@@ -145,6 +145,7 @@ Shader Template: https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
 - https://mrdoob.com/#/158/threejs_sketches
 - https://github.com/gkjohnson/threejs-sandbox
 
+- Ferrofluid : https://www.clicktorelease.com/tmp/number/ferrofluid/
 - Glossy Sphere : https://medium.com/@soffritti.pierfrancesco/glossy-spheres-in-three-js-bfd2785d4857
 - Mesh Deformation Study with a Sphere : https://medium.com/@qinzitan/mesh-deformation-study-with-a-sphere-ceee37d47e32
 - Create a Wave Motion Effect on an Image with Three.js: https://tympanus.net/codrops/2020/03/17/create-a-wave-motion-effect-on-an-image-with-three-js/
