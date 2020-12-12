@@ -87,12 +87,15 @@ Stripes Shader : https://andreashackel.de/tech-art/stripes-shader-2/
 Twisted Torus & Sphere : https://codepen.io/mnmxmx/pen/BdjdMz
 Bad TV : https://github.com/felixturner/bad-tv-shader
 Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
-Painted FBM w controls : https://codepen.io/deadlocked247/pen/ExjGmXd?editors=0010
-https://adinunz.io/interstellar/
-Noisy Blob : https://codepen.io/dev_loop/pen/NWNMYvv?editors=1010
-Shader Template: https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
+- Painted FBM w controls : https://codepen.io/deadlocked247/pen/ExjGmXd?editors=0010
+- https://adinunz.io/interstellar/
+- Noisy Blob : https://codepen.io/dev_loop/pen/NWNMYvv?editors=1010
+- Shader Template: https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
 - Fresnel : https://codepen.io/Fyrestar/pen/RzVLYd?editors=0010
 - Neon Love : https://codepen.io/al-ro/pen/BaaBage?editors=0010
+- Building a Custom Shader with GLSLify : https://blog.gskinner.com/archives/2019/01/custom-shader-glslify.html
+- Voronoy portal : http://xdpixel.com/category/noise/page/5/
+- https://github.com/keijiro/ShaderSketches/blob/master/Fragment/Coaxial.glsl
 
 # ShaderToy
 - Glitches : https://www.shadertoy.com/view/XtK3W3
@@ -151,7 +154,7 @@ Shader Template: https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
 - EMSX GUI : https://www.airtightinteractive.com/demos/js/emsx/
 - Create a Wave Motion Effect on an Image with Three.js: https://tympanus.net/codrops/2020/03/17/create-a-wave-motion-effect-on-an-image-with-three-js/
 - Particle Love : https://particle-love.com/
-- Volumetric Light Scattering in three.js : https://codepen.io/abberg/pen/pbWkjg?editors=0010
+- Volumetric Light Scattering in three.js : https://codepen.io/abberg/pen/pbWkjg?editors=0010 / https://medium.com/@andrew_b_berg/volumetric-light-scattering-in-three-js-6e1850680a41
 - Converting Shaders from Shadertoy to ThreeJS : https://hackernoon.com/converting-shaders-from-shadertoy-to-threejs-fe17480ed5c6
 - Simulating Depth of Field with Particles using the Blurry Library : https://tympanus.net/codrops/2019/10/01/simulating-depth-of-field-with-particles-using-the-blurry-library/   
 - GLSL Glitch in ThreeJS : https://codepen.io/ykob/pen/GmEzoQ?editors=0010
@@ -178,6 +181,7 @@ Shader Template: https://codepen.io/jhnsnc/pen/wWwprB?editors=1010
 - https://gifer.com/en/3va2
 - https://giphy.com/gifs/26BRzDIHfU6ItGtRS/html5
 - https://giphy.com/gifs/loop-dark-after-effects-26gsuUjoEBmLrNBxC
+- https://www.behance.net/nicolaslopardo
 
 ---
 
