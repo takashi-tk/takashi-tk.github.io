@@ -114,6 +114,7 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - Demo : https://www.shadertoy.com/view/4dBcDK
 - Hypnoferromagnetism: https://www.shadertoy.com/view/wdSXzK
 - Shipped HUD : https://www.shadertoy.com/view/tsycWW
+- Cyber Iris : https://www.shadertoy.com/view/WsScDK
 
 # GLSL Sandbox
 - http://glslsandbox.com/e#53208.0
