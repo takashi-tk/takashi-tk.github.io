@@ -30,6 +30,7 @@ Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 
 ## GUI
 - ControlKit : https://github.com/automat/controlkit.js/
+- GUIGUI : https://github.com/superguigui/guigui#dev
 - UIL : https://github.com/lo-th/uil
 
 # Base : 
