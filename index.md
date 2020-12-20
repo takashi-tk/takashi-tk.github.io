@@ -61,6 +61,9 @@ https://codepen.io/discoverthreejs/pen/GdQpbd
 Glitch and RGBShift : https://codepen.io/anandu/pen/ZNWvNK?editors=1010
 How to enable antialiasing while using EffectComposer : https://stackoverflow.com/questions/21050797/how-to-enable-antialiasing-while-using-effectcomposer
 Keep transparancy: https://discourse.threejs.org/t/effect-composer-keep-transparency/4447
+Pass renderer output as input texture to next frame interation : https://discourse.threejs.org/t/pass-renderer-output-as-input-texture-to-next-frame-interation/5021
+Motion blur : https://jsfiddle.net/takashi_tk/d9et0mk4/38/
+Postprocessing background : https://threejs.org/examples/?q=post#webgl_postprocessing_backgrounds
 
 # Bmfont text  
 Create Text in Three.js with Three-bmfont-text: https://tympanus.net/codrops/2019/10/10/create-text-in-three-js-with-three-bmfont-text/
@@ -126,6 +129,7 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - Particle Shape Tween : https://airtightinteractive.com/demos/js/hello/
 - Interactive Particles with Three.js : https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
 - Particle vortex : https://jsfiddle.net/eso3x0ox/13/
+- Points cloud : https://codepen.io/seanseansean/pen/EaBZEY?editors=0010
 
 # CURL Noise
 - https://codepen.io/timseverien/pen/EmJNOR
@@ -149,7 +153,11 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - https://callumprentice.github.io/
 - https://mrdoob.com/#/158/threejs_sketches
 - https://github.com/gkjohnson/threejs-sandbox
+- Codevember 2016 : https://www.clicktorelease.com/code/codevember-2016/
+- Codevember 2017 : https://www.clicktorelease.com/code/codevember-2017/
+- DIGITAL INKTOBER 2020 : https://spite.github.io/sketch/
 
+- Baubles : https://spite.github.io/baubles/
 - Ferrofluid : https://www.clicktorelease.com/tmp/number/ferrofluid/
 - Glossy Sphere : https://medium.com/@soffritti.pierfrancesco/glossy-spheres-in-three-js-bfd2785d4857
 - Mesh Deformation Study with a Sphere : https://medium.com/@qinzitan/mesh-deformation-study-with-a-sphere-ceee37d47e32
@@ -208,3 +216,6 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - https://zalo.github.io/
 - https://github.com/yagiz/Andromeda
 - https://github.com/nudibranchrecords/hedron
+
+# Twitter
+https://twitter.com/thespite
