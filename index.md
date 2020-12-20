@@ -12,6 +12,7 @@ Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 - CustomShaderMaterial : https://github.com/FarazzShaikh/THREE-CustomShaderMaterial
 - JS Easing functions : https://github.com/bameyrick/js-easing-functions
 - MagicShader : https://github.com/luruke/magicshader
+- NoiseJS : https://github.com/josephg/noisejs
 
 - Wagner Composer : https://github.com/spite/Wagner
 
@@ -51,19 +52,23 @@ Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 - Create noisy line sphere : https://pastebin.com/4Q69ygZB
 
 # Preloader
-https://jsfiddle.net/takashi_tk/at9ow1z7/1/
+- https://jsfiddle.net/takashi_tk/at9ow1z7/1/
+- Promise load : https://gist.github.com/zadvorsky/a79787a4703ecc74cab2fdbd05888e9b
+
 
 # Taking Hires screenshot
 https://discourse.threejs.org/t/what-is-the-alternative-to-take-high-resolution-picture-rather-than-take-canvas-screenshot/3209/8
 https://codepen.io/discoverthreejs/pen/GdQpbd
 
 # Effect Composer
-Glitch and RGBShift : https://codepen.io/anandu/pen/ZNWvNK?editors=1010
-How to enable antialiasing while using EffectComposer : https://stackoverflow.com/questions/21050797/how-to-enable-antialiasing-while-using-effectcomposer
-Keep transparancy: https://discourse.threejs.org/t/effect-composer-keep-transparency/4447
-Pass renderer output as input texture to next frame interation : https://discourse.threejs.org/t/pass-renderer-output-as-input-texture-to-next-frame-interation/5021
-Motion blur : https://jsfiddle.net/takashi_tk/d9et0mk4/38/
-Postprocessing background : https://threejs.org/examples/?q=post#webgl_postprocessing_backgrounds
+- Glitch and RGBShift : https://codepen.io/anandu/pen/ZNWvNK?editors=1010
+- How to enable antialiasing while using EffectComposer : https://stackoverflow.com/questions/21050797/how-to-enable-antialiasing-while-using-effectcomposer
+- Keep transparancy: https://discourse.threejs.org/t/effect-composer-keep-transparency/4447
+- Pass renderer output as input texture to next frame interation : https://discourse.threejs.org/t/pass-renderer-output-as-input-texture-to-next-frame-interation/5021
+- Motion blur : https://jsfiddle.net/takashi_tk/d9et0mk4/38/
+- Postprocessing background : https://threejs.org/examples/?q=post#webgl_postprocessing_backgrounds
+- https://github.com/Jam3/threejs-post-process-example
+- Sharpen : https://github.com/robertoranon/int3D/blob/master/18-postprocessing-sharpen.html
 
 # Bmfont text  
 Create Text in Three.js with Three-bmfont-text: https://tympanus.net/codrops/2019/10/10/create-text-in-three-js-with-three-bmfont-text/
@@ -72,6 +77,8 @@ Kinetic Typography with Three.js: https://tympanus.net/codrops/2020/06/02/kinet
 Converts a .ttf font file: https://github.com/soimy/msdf-bmfont-xml/
 
 # Shaders
+- ThreeJS Shaderlib : https://ycw.github.io/three-shaderlib-skim/#basic
+
 - Experiments for digital #inktober 2020: https://github.com/spite/sketch
 Shader - Calculate depth relative to Object: https://stackoverflow.com/questions/26328666/shader-calculate-depth-relative-to-object
 Depth as distance to camera plane in GLSL: https://stackoverflow.com/questions/16131963/depth-as-distance-to-camera-plane-in-glsl
@@ -130,6 +137,13 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - Interactive Particles with Three.js : https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/
 - Particle vortex : https://jsfiddle.net/eso3x0ox/13/
 - Points cloud : https://codepen.io/seanseansean/pen/EaBZEY?editors=0010
+- 3D particles exploration : https://tympanus.net/codrops/2017/12/12/3d-particle-explorations/
+
+
+# Vector field
+- https://github.com/mjkaufer/3DVectorFields
+- https://github.com/dmnsgn/vector-field
+
 
 # CURL Noise
 - https://codepen.io/timseverien/pen/EmJNOR
@@ -160,6 +174,7 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - Baubles : https://spite.github.io/baubles/
 - Ferrofluid : https://www.clicktorelease.com/tmp/number/ferrofluid/
 - Glossy Sphere : https://medium.com/@soffritti.pierfrancesco/glossy-spheres-in-three-js-bfd2785d4857
+- Perlin noise : https://codepen.io/vcomics/pen/djqNrm?editors=1010
 - Mesh Deformation Study with a Sphere : https://medium.com/@qinzitan/mesh-deformation-study-with-a-sphere-ceee37d47e32
 - EMSX GUI : https://www.airtightinteractive.com/demos/js/emsx/
 - Create a Wave Motion Effect on an Image with Three.js: https://tympanus.net/codrops/2020/03/17/create-a-wave-motion-effect-on-an-image-with-three-js/
@@ -184,6 +199,10 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - Drawing curves on WebGL Globe using THREE.js and D3 : https://medium.com/@xiaoyangzhao/drawing-curves-on-webgl-globe-using-three-js-and-d3-draft-7e782ffd7ab
 - Nucleus : https://codepen.io/Mamboleoo/pen/Bppdda?editors=0010
 - 3D particles exploration : https://github.com/jackrugile/3d-particle-explorations
+- https://tympanus.net/codrops/2020/12/17/recreating-a-dave-whyte-animation-in-react-three-fiber/
+- https://damienmortini.github.io/generalelectric-ib2020-webgl/
+- Animated meshline : https://tympanus.net/codrops/2019/01/08/animated-mesh-lines/
+- http://www.smartjava.org/content/html5-render-urban-population-growth-3d-world-globe-threejs-and-canvas/
 
 # Inspirations
 - https://www.thisiscolossal.com/2018/04/animation-of-sinusoidal-waves-in-gifs-by-etienne-jacob/
@@ -219,3 +238,5 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 
 # Twitter
 https://twitter.com/thespite
+https://twitter.com/threejs_org?lang=fr
+
