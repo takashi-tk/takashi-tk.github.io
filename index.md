@@ -177,6 +177,7 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - Perlin noise : https://codepen.io/vcomics/pen/djqNrm?editors=1010
 - Mesh Deformation Study with a Sphere : https://medium.com/@qinzitan/mesh-deformation-study-with-a-sphere-ceee37d47e32
 - EMSX GUI : https://www.airtightinteractive.com/demos/js/emsx/
+- Supershape : http://supershape.ahoi.in/
 - Create a Wave Motion Effect on an Image with Three.js: https://tympanus.net/codrops/2020/03/17/create-a-wave-motion-effect-on-an-image-with-three-js/
 - Particle Love : https://particle-love.com/
 - Volumetric Light Scattering in three.js : https://codepen.io/abberg/pen/pbWkjg?editors=0010 / https://medium.com/@andrew_b_berg/volumetric-light-scattering-in-three-js-6e1850680a41
