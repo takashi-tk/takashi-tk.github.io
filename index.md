@@ -13,6 +13,7 @@ Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 - JS Easing functions : https://github.com/bameyrick/js-easing-functions
 - MagicShader : https://github.com/luruke/magicshader
 - NoiseJS : https://github.com/josephg/noisejs
+- Hexasphere : https://github.com/arscan/hexasphere.js/
 
 - Wagner Composer : https://github.com/spite/Wagner
 
@@ -33,6 +34,7 @@ Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 - ControlKit : https://github.com/automat/controlkit.js/
 - GUIGUI : https://github.com/superguigui/guigui#dev
 - UIL : https://github.com/lo-th/uil
+- Three dat.gui : https://github.com/SolalDR/three-dat.gui
 
 # Base : 
 - 3D Cube Loop : https://codepen.io/quentinhocde/pen/qEvvba?editors=0010  
@@ -143,6 +145,9 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 # Vector field
 - https://github.com/mjkaufer/3DVectorFields
 - https://github.com/dmnsgn/vector-field
+- https://github.com/rohanp/vectorfield
+- http://www.marky.pl/vector-field/
+- https://wow.techbrood.com/fiddle/36151
 
 
 # CURL Noise
@@ -169,6 +174,7 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - https://github.com/gkjohnson/threejs-sandbox
 - Codevember 2016 : https://www.clicktorelease.com/code/codevember-2016/
 - Codevember 2017 : https://www.clicktorelease.com/code/codevember-2017/
+- Codevember 2019 : https://github.com/KessonDalef/Codevember_2019
 - DIGITAL INKTOBER 2020 : https://spite.github.io/sketch/
 
 - Baubles : https://spite.github.io/baubles/
@@ -184,6 +190,7 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - Converting Shaders from Shadertoy to ThreeJS : https://hackernoon.com/converting-shaders-from-shadertoy-to-threejs-fe17480ed5c6
 - Simulating Depth of Field with Particles using the Blurry Library : https://tympanus.net/codrops/2019/10/01/simulating-depth-of-field-with-particles-using-the-blurry-library/   
 - GLSL Glitch in ThreeJS : https://codepen.io/ykob/pen/GmEzoQ?editors=0010
+- https://www.codeseek.co/Samsy
 - stemkoski ThreeJS examples : http://stemkoski.github.io/Three.js/index.html#shader-explorer
 - Simplex Flower generator : https://codepen.io/jackrugile/pen/LeJowx?editors=0010
 - Three.js - How to apply shader effect around mouse area?: https://stackoverflow.com/questions/48487398/three-js-how-to-apply-shader-effect-around-mouse-area
