@@ -54,9 +54,8 @@ Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 - Create noisy line sphere : https://pastebin.com/4Q69ygZB
 
 # Preloader
-- https://jsfiddle.net/takashi_tk/at9ow1z7/1/
 - Promise load : https://gist.github.com/zadvorsky/a79787a4703ecc74cab2fdbd05888e9b
-
+- https://jsfiddle.net/vfug1adn/19/
 
 # Taking Hires screenshot
 https://discourse.threejs.org/t/what-is-the-alternative-to-take-high-resolution-picture-rather-than-take-canvas-screenshot/3209/8
