@@ -1,5 +1,9 @@
 Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 
+# Twitter
+https://twitter.com/thespite
+https://twitter.com/threejs_org?lang=fr
+
 # Applications
 - https://github.com/rivafarabi/deckboard
 - DroidCam : https://www.dev47apps.com/
@@ -22,6 +26,7 @@ Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 - Three Boilerplate : https://github.com/marcofugaro/threejs-modern-app
 - Maf.js : https://github.com/spite/Maf.js/
 - Wagner Composer : https://github.com/spite/Wagner
+- Asset-loader : https://github.com/ianmcgregor/assets-loader
 
 ## Particles
 - Partykals : https://github.com/RonenNess/partykals
@@ -195,6 +200,7 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - Codevember 2017 : https://www.clicktorelease.com/code/codevember-2017/
 - Codevember 2019 : https://github.com/KessonDalef/Codevember_2019
 - DIGITAL INKTOBER 2020 : https://spite.github.io/sketch/
+- yiwenl : https://github.com/yiwenl/Sketches / http://yiwenl.github.io/Sketches/
 
 - Baubles : https://spite.github.io/baubles/
 - Ferrofluid : https://www.clicktorelease.com/tmp/number/ferrofluid/
@@ -231,6 +237,8 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - https://damienmortini.github.io/generalelectric-ib2020-webgl/
 - Animated meshline : https://tympanus.net/codrops/2019/01/08/animated-mesh-lines/
 - http://www.smartjava.org/content/html5-render-urban-population-growth-3d-world-globe-threejs-and-canvas/
+- Mouse trail with OGL : https://tympanus.net/codrops/2019/09/24/crafting-stylised-mouse-trails-with-ogl/
+- https://tympanus.net/codrops/2019/11/13/high-speed-light-trails-in-three-js/
 
 # Inspirations
 - https://www.thisiscolossal.com/2018/04/animation-of-sinusoidal-waves-in-gifs-by-etienne-jacob/
@@ -263,8 +271,6 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - https://zalo.github.io/
 - https://github.com/yagiz/Andromeda
 - https://github.com/nudibranchrecords/hedron
-
-# Twitter
-https://twitter.com/thespite
-https://twitter.com/threejs_org?lang=fr
-
+- three.js Points anti-gravity is applied ver2 : https://codepen.io/ykob/pen/avEpdd?editors=1010
+- Perlin cube : https://codesandbox.io/s/perlin-cubes-forked-w9myx?file=/src/App.js
+- Fireball : https://ykob.github.io/sketch-threejs/sketch/fire_ball_2.html
