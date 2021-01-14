@@ -1,5 +1,9 @@
 Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 
+# Applications
+- https://github.com/rivafarabi/deckboard
+- DroidCam : https://www.dev47apps.com/
+
 # Libraries
 - ThreeJS : https://threejs.org/
 - Meshline : https://github.com/spite/THREE.MeshLine
@@ -14,7 +18,9 @@ Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 - MagicShader : https://github.com/luruke/magicshader
 - NoiseJS : https://github.com/josephg/noisejs
 - Hexasphere : https://github.com/arscan/hexasphere.js/
-
+- Three Mesh BVH : https://github.com/gkjohnson/three-mesh-bvh
+- Three Boilerplate : https://github.com/marcofugaro/threejs-modern-app
+- Maf.js : https://github.com/spite/Maf.js/
 - Wagner Composer : https://github.com/spite/Wagner
 
 ## Particles
@@ -78,6 +84,18 @@ https://github.com/Jam3/three-bmfont-text
 Kinetic Typography with Three.js: https://tympanus.net/codrops/2020/06/02/kinetic-typography-with-three-js/
 Converts a .ttf font file: https://github.com/soimy/msdf-bmfont-xml/
 
+# Sphere
+- Moving point on sphere : https://stackoverflow.com/questions/55225708/moving-point-on-sphere-using-spherical-coordinates-three-js
+- Random point on sphere : https://www.codegrepper.com/code-examples/javascript/javascript+random+point+on+unit+sphere
+- Simple implementation of a fibonacci sphere in ThreeJS : https://gist.github.com/stephanbogner/a5f50548a06bec723dcb0991dcbb0856
+- Uniform random point on sphere : http://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/
+
+# Random Gaussian
+- https://stackoverflow.com/questions/25582882/javascript-math-random-normal-distribution-gaussian-bell-curve
+- https://stackoverflow.com/questions/62291001/how-to-get-a-random-value-from-truncated-normal-distribution-with-mean-and-std-i
+- https://observablehq.com/@chrispahm/skew-normal-distributions
+- http://jsfiddle.net/takashi_tk/21b709vm/17/
+
 # Shaders
 - ThreeJS Shaderlib : https://ycw.github.io/three-shaderlib-skim/#basic
 
@@ -100,6 +118,7 @@ Stripes Shader : https://andreashackel.de/tech-art/stripes-shader-2/
 Twisted Torus & Sphere : https://codepen.io/mnmxmx/pen/BdjdMz
 Bad TV : https://github.com/felixturner/bad-tv-shader
 Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
+- Magma Shader : https://codepen.io/eroxburgh/pen/XWjapqj?editors=1010
 - Painted FBM w controls : https://codepen.io/deadlocked247/pen/ExjGmXd?editors=0010
 - https://adinunz.io/interstellar/
 - Noisy Blob : https://codepen.io/dev_loop/pen/NWNMYvv?editors=1010
@@ -187,6 +206,7 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - Create a Wave Motion Effect on an Image with Three.js: https://tympanus.net/codrops/2020/03/17/create-a-wave-motion-effect-on-an-image-with-three-js/
 - Particle Love : https://particle-love.com/
 - Volumetric Light Scattering in three.js : https://codepen.io/abberg/pen/pbWkjg?editors=0010 / https://medium.com/@andrew_b_berg/volumetric-light-scattering-in-three-js-6e1850680a41
+- https://github.com/arscan/encom-globe
 - Converting Shaders from Shadertoy to ThreeJS : https://hackernoon.com/converting-shaders-from-shadertoy-to-threejs-fe17480ed5c6
 - Simulating Depth of Field with Particles using the Blurry Library : https://tympanus.net/codrops/2019/10/01/simulating-depth-of-field-with-particles-using-the-blurry-library/   
 - GLSL Glitch in ThreeJS : https://codepen.io/ykob/pen/GmEzoQ?editors=0010
