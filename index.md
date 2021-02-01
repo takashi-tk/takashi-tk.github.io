@@ -42,6 +42,7 @@ https://twitter.com/threejs_org?lang=fr
 - Popmotion : https://popmotion.io/pure/
 
 ## GUI
+- Tweakpane : https://github.com/cocopon/tweakpane
 - ControlKit : https://github.com/automat/controlkit.js/
 - GUIGUI : https://github.com/superguigui/guigui#dev
 - UIL : https://github.com/lo-th/uil
