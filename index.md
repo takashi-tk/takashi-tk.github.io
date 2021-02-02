@@ -71,8 +71,8 @@ https://twitter.com/threejs_org?lang=fr
 - https://jsfiddle.net/vfug1adn/19/
 
 # Taking Hires screenshot
-https://discourse.threejs.org/t/what-is-the-alternative-to-take-high-resolution-picture-rather-than-take-canvas-screenshot/3209/8
-https://codepen.io/discoverthreejs/pen/GdQpbd
+- https://discourse.threejs.org/t/what-is-the-alternative-to-take-high-resolution-picture-rather-than-take-canvas-screenshot/3209/8
+- https://codepen.io/discoverthreejs/pen/GdQpbd
 
 # Effect Composer
 - Glitch and RGBShift : https://codepen.io/anandu/pen/ZNWvNK?editors=1010
@@ -85,10 +85,10 @@ https://codepen.io/discoverthreejs/pen/GdQpbd
 - Sharpen : https://github.com/robertoranon/int3D/blob/master/18-postprocessing-sharpen.html
 
 # Bmfont text  
-Create Text in Three.js with Three-bmfont-text: https://tympanus.net/codrops/2019/10/10/create-text-in-three-js-with-three-bmfont-text/
-https://github.com/Jam3/three-bmfont-text
-Kinetic Typography with Three.js: https://tympanus.net/codrops/2020/06/02/kinetic-typography-with-three-js/
-Converts a .ttf font file: https://github.com/soimy/msdf-bmfont-xml/
+- Create Text in Three.js with Three-bmfont-text: https://tympanus.net/codrops/2019/10/10/create-text-in-three-js-with-three-bmfont-text/
+- https://github.com/Jam3/three-bmfont-text
+- Kinetic Typography with Three.js: https://tympanus.net/codrops/2020/06/02/kinetic-typography-with-three-js/
+- Converts a .ttf font file: https://github.com/soimy/msdf-bmfont-xml/
 
 # Sphere
 - Moving point on sphere : https://stackoverflow.com/questions/55225708/moving-point-on-sphere-using-spherical-coordinates-three-js
@@ -106,24 +106,24 @@ Converts a .ttf font file: https://github.com/soimy/msdf-bmfont-xml/
 - ThreeJS Shaderlib : https://ycw.github.io/three-shaderlib-skim/#basic
 
 - Experiments for digital #inktober 2020: https://github.com/spite/sketch
-Shader - Calculate depth relative to Object: https://stackoverflow.com/questions/26328666/shader-calculate-depth-relative-to-object
-Depth as distance to camera plane in GLSL: https://stackoverflow.com/questions/16131963/depth-as-distance-to-camera-plane-in-glsl
-Shader spline : https://callumprentice.github.io/apps/shader_spline/index.html
-Converting Shaders from ShaderToy : https://hackernoon.com/converting-shaders-from-shadertoy-to-threejs-fe17480ed5c6
-Simple shader : https://iwearshorts.com/blog/simple-shader-with-threejs/
-Glitch and RGBShift : https://codepen.io/anandu/pen/ZNWvNK?editors=0010
-Vertex displacement with a noise function using GLSL and three.js: https://www.clicktorelease.com/blog/vertex-displacement-noise-3d-webgl-glsl-three-js/
-OnBeforeCompile : https://stackoverflow.com/questions/58494669/pass-in-a-vector-onbefore compile-three-js
-Chainable onBeforeCompile: https://github.com/Fyrestar/Material-Plugins
-Moiré shader: https://codepen.io/MikeMcChillin/pen/RoGrJv?editors=0010
-ShaderToy - Fire shader : https://greentec.github.io/shadertoy-fire-shader-en/
-OnBeforeCompile : https://codepen.io/prisoner849/pen/BvxBPW?editors=0010
-Experiments with Perlin noise : https://www.clicktorelease.com/blog/experiments-with-perlin-noise/
-https://www.mapzen.com/blog/behind-the-scenes-tron2/
-Stripes Shader : https://andreashackel.de/tech-art/stripes-shader-2/
-Twisted Torus & Sphere : https://codepen.io/mnmxmx/pen/BdjdMz
-Bad TV : https://github.com/felixturner/bad-tv-shader
-Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
+- Shader - Calculate depth relative to Object: https://stackoverflow.com/questions/26328666/shader-calculate-depth-relative-to-object
+- Depth as distance to camera plane in GLSL: https://stackoverflow.com/questions/16131963/depth-as-distance-to-camera-plane-in-glsl
+- Shader spline : https://callumprentice.github.io/apps/shader_spline/index.html
+- Converting Shaders from ShaderToy : https://hackernoon.com/converting-shaders-from-shadertoy-to-threejs-fe17480ed5c6
+- Simple shader : https://iwearshorts.com/blog/simple-shader-with-threejs/
+- Glitch and RGBShift : https://codepen.io/anandu/pen/ZNWvNK?editors=0010
+- Vertex displacement with a noise function using GLSL and three.js: https://www.clicktorelease.com/blog/vertex-displacement-noise-3d-webgl-glsl-three-js/
+- OnBeforeCompile : https://stackoverflow.com/questions/58494669/pass-in-a-vector-onbefore compile-three-js
+- Chainable onBeforeCompile: https://github.com/Fyrestar/Material-Plugins
+- Moiré shader: https://codepen.io/MikeMcChillin/pen/RoGrJv?editors=0010
+- ShaderToy - Fire shader : https://greentec.github.io/shadertoy-fire-shader-en/
+- OnBeforeCompile : https://codepen.io/prisoner849/pen/BvxBPW?editors=0010
+- Experiments with Perlin noise : https://www.clicktorelease.com/blog/experiments-with-perlin-noise/
+- https://www.mapzen.com/blog/behind-the-scenes-tron2/
+- Stripes Shader : https://andreashackel.de/tech-art/stripes-shader-2/
+- Twisted Torus & Sphere : https://codepen.io/mnmxmx/pen/BdjdMz
+- Bad TV : https://github.com/felixturner/bad-tv-shader
+- Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - Magma Shader : https://codepen.io/eroxburgh/pen/XWjapqj?editors=1010
 - Painted FBM w controls : https://codepen.io/deadlocked247/pen/ExjGmXd?editors=0010
 - https://adinunz.io/interstellar/
@@ -173,7 +173,6 @@ Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - https://github.com/rohanp/vectorfield
 - http://www.marky.pl/vector-field/
 - https://wow.techbrood.com/fiddle/36151
-
 
 # CURL Noise
 - https://codepen.io/timseverien/pen/EmJNOR
