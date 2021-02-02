@@ -36,6 +36,7 @@ https://twitter.com/threejs_org?lang=fr
 ## Timeline
 - Timeliner : https://github.com/zz85/timeliner
 - TimelineJS : https://github.com/vorg/timeline.js
+- https://github.com/ievgennaida/animation-timeline-control
 
 ## Animation
 - GSAP : https://greensock.com/gsap/
