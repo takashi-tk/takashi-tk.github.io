@@ -27,6 +27,8 @@ https://twitter.com/threejs_org?lang=fr
 - Maf.js : https://github.com/spite/Maf.js/
 - Wagner Composer : https://github.com/spite/Wagner
 - Asset-loader : https://github.com/ianmcgregor/assets-loader
+- InstancedUniformsMesh : https://github.com/protectwise/troika/tree/master/packages/three-instanced-uniforms-mesh
+- three-material-editor : https://github.com/RenaudRohlinger/three-material-editor
 
 ## Particles
 - Partykals : https://github.com/RonenNess/partykals
@@ -102,6 +104,26 @@ https://twitter.com/threejs_org?lang=fr
 - https://stackoverflow.com/questions/62291001/how-to-get-a-random-value-from-truncated-normal-distribution-with-mean-and-std-i
 - https://observablehq.com/@chrispahm/skew-normal-distributions
 - http://jsfiddle.net/takashi_tk/21b709vm/17/
+
+# FBO / GPGPU
+- **FBO Particles** : http://barradeau.com/blog/?p=621
+- **FBO** : https://github.com/nicoptere/FBO
+- **ThreeJS FBO** : https://github.com/tuqire/three.js-fbo
+- Three FBO Helper : https://github.com/spite/THREE.FBOHelper
+- Mr Doob FBO example : https://mrdoob.com/lab/javascript/webgl/particles/particles_zz85.html
+- Rendering 100k spheres, instantiating and draw calls : https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/
+- Particle-Curl-Noise : https://github.com/juniorxsound/Particle-Curl-Noise
+- Codevember #2 : http://codevember.dorianlods.fr/2/
+- Data Texture : https://codepen.io/alexpyzhianov/pen/vNjJWd?editors=0010
+- https://qiita.com/uma6661/items/20accc9b5fb9845fc73a
+- https://wgld.org/d/webgl2/w015.html
+- Point cloud experiment : https://codepen.io/seanseansean/pen/EaBZEY
+- ThreeJS GPGPU bird example : https://threejs.org/examples/?q=gpgpu#webgl_gpgpu_birds
+- GPU particles : http://www.neveroccurs.com/lab/three.js/gpu_particles/?particles=256
+- ThreeJS Particles: Recycling : https://medium.com/@joshmarinacci/threejs-particles-recycling-af20c56bb041
+- Draw 100,000 points with regl : https://bl.ocks.org/pbeshai/28c7f3acdde4ca5a13854f06c5d7e334
+- Transitioning vertices between 3D models with three.js : https://stackoverflow.com/questions/44443286/transitioning-vertices-between-3d-models-with-three-js
+- Interactive Particles with Three.js : https://github.com/brunoimbrizi/interactive-particles
 
 # Shaders
 - ThreeJS Shaderlib : https://ycw.github.io/three-shaderlib-skim/#basic
@@ -240,6 +262,8 @@ https://twitter.com/threejs_org?lang=fr
 - http://www.smartjava.org/content/html5-render-urban-population-growth-3d-world-globe-threejs-and-canvas/
 - Mouse trail with OGL : https://tympanus.net/codrops/2019/09/24/crafting-stylised-mouse-trails-with-ogl/
 - https://tympanus.net/codrops/2019/11/13/high-speed-light-trails-in-three-js/
+- Audiograph : https://mattdesl.svbtle.com/audiograph
+- Points globe : https://stripe.com/blog/globe
 
 # Inspirations
 - https://www.thisiscolossal.com/2018/04/animation-of-sinusoidal-waves-in-gifs-by-etienne-jacob/
