@@ -273,6 +273,10 @@ https://twitter.com/threejs_org?lang=fr
 - https://giphy.com/gifs/loop-dark-after-effects-26gsuUjoEBmLrNBxC
 - https://www.behance.net/nicolaslopardo
 
+# Font
+- Datalegreya : https://github.com/figs-lab/datalegreya
+- Atkinson Hyperlegible Font : https://brailleinstitute.org/freefont
+
 ---
 
 - https://wow.techbrood.com/fiddle/44531
