@@ -41,6 +41,7 @@ https://twitter.com/threejs_org?lang=fr
 - https://github.com/ievgennaida/animation-timeline-control
 
 ## Animation
+- Storyline.js : https://github.com/spite/Storyline.js
 - GSAP : https://greensock.com/gsap/
 - Popmotion : https://popmotion.io/pure/
 
@@ -213,18 +214,22 @@ https://twitter.com/threejs_org?lang=fr
 - Webmidi + ThreeJS : https://github.com/violetforest/webmidi-threejs
 
 # Examples
+## Portfolio
 - https://stemkoski.github.io/Three.js/
 - https://github.com/ykob/sketch-threejs
 - https://alteredqualia.com/
 - https://callumprentice.github.io/
 - https://mrdoob.com/#/158/threejs_sketches
 - https://github.com/gkjohnson/threejs-sandbox
+- http://www.hellochar.com/
+- yiwenl : https://github.com/yiwenl/Sketches / http://yiwenl.github.io/Sketches/
+
+## Codevember / DIGITAL INKTOBER
 - Codevember 2016 : https://www.clicktorelease.com/code/codevember-2016/
 - Codevember 2017 : https://www.clicktorelease.com/code/codevember-2017/
 - Codevember 2019 : https://github.com/KessonDalef/Codevember_2019
 - DIGITAL INKTOBER 2020 : https://spite.github.io/sketch/
-- yiwenl : https://github.com/yiwenl/Sketches / http://yiwenl.github.io/Sketches/
-
+## Good examples
 - Baubles : https://spite.github.io/baubles/
 - Ferrofluid : https://www.clicktorelease.com/tmp/number/ferrofluid/
 - Glossy Sphere : https://medium.com/@soffritti.pierfrancesco/glossy-spheres-in-three-js-bfd2785d4857
