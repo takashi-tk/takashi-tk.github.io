@@ -29,6 +29,7 @@ https://twitter.com/threejs_org?lang=fr
 - Asset-loader : https://github.com/ianmcgregor/assets-loader
 - InstancedUniformsMesh : https://github.com/protectwise/troika/tree/master/packages/three-instanced-uniforms-mesh
 - three-material-editor : https://github.com/RenaudRohlinger/three-material-editor
+- GL-bench : https://github.com/munsocket/gl-bench
 
 ## Particles
 - Partykals : https://github.com/RonenNess/partykals
@@ -158,6 +159,7 @@ https://twitter.com/threejs_org?lang=fr
 - Building a Custom Shader with GLSLify : https://blog.gskinner.com/archives/2019/01/custom-shader-glslify.html
 - Voronoy portal : http://xdpixel.com/category/noise/page/5/
 - https://github.com/keijiro/ShaderSketches/blob/master/Fragment/Coaxial.glsl
+- Retro shaders in GLSL : https://clemz.io/article-retro-shaders-webgl.html
 
 # ShaderToy
 - Glitches : https://www.shadertoy.com/view/XtK3W3
@@ -229,6 +231,7 @@ https://twitter.com/threejs_org?lang=fr
 - Codevember 2017 : https://www.clicktorelease.com/code/codevember-2017/
 - Codevember 2019 : https://github.com/KessonDalef/Codevember_2019
 - DIGITAL INKTOBER 2020 : https://spite.github.io/sketch/
+
 ## Good examples
 - Baubles : https://spite.github.io/baubles/
 - Ferrofluid : https://www.clicktorelease.com/tmp/number/ferrofluid/
@@ -269,6 +272,10 @@ https://twitter.com/threejs_org?lang=fr
 - https://tympanus.net/codrops/2019/11/13/high-speed-light-trails-in-three-js/
 - Audiograph : https://mattdesl.svbtle.com/audiograph
 - Points globe : https://stripe.com/blog/globe
+- Life of cube : https://github.com/TomHsiao1260/life-of-cube
+- 3D Camera Wobble : https://github.com/pschroen/alien.js/blob/master/examples/3d_camera_wobble.html
+- Iguacel Exp 28 : https://iguacel.github.io/iguacel/#/exp/28 / https://github.com/iguacel/iguacel/blob/master/src/exp/Exp28.js
+- cru.ci.form : https://www.clicktorelease.com/blog/making-of-cruciform/
 
 # Inspirations
 - https://www.thisiscolossal.com/2018/04/animation-of-sinusoidal-waves-in-gifs-by-etienne-jacob/
