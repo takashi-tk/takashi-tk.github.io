@@ -7,6 +7,7 @@ https://twitter.com/threejs_org?lang=fr
 # Applications
 - https://github.com/rivafarabi/deckboard
 - DroidCam : https://www.dev47apps.com/
+- VEDA : https://veda.gl/vedajs/
 
 # Libraries
 - ThreeJS : https://threejs.org/
@@ -66,10 +67,14 @@ https://twitter.com/threejs_org?lang=fr
 - Fixed FPS with requestAnimationFrame : http://jsfiddle.net/takashi_tk/vj7fowz0/1/
 - Fixed FPS 2 : http://www.realtimerendering.com/erich/udacity/exercises/unit1_fps_demo.html
 - Transform to Quad : https://jsfiddle.net/prisoner849/sgaywqf3/
-
+- Merge geometries : https://codepen.io/marquizzo/pen/eYpgBdL?editors=0010
 
 - ThreeJS Annotations : https://manu.ninja/webgl-three-js-annotations/
 - Create noisy line sphere : https://pastebin.com/4Q69ygZB
+
+## Textures / Materials
+- Projected materials : https://github.com/marcofugaro/three-projected-material/blob/master/src/ProjectedMaterial.js
+- Texture projection : https://tympanus.net/codrops/2020/01/07/playing-with-texture-projection-in-three-js/
 
 # Preloader
 - Promise load : https://gist.github.com/zadvorsky/a79787a4703ecc74cab2fdbd05888e9b
@@ -136,7 +141,6 @@ https://twitter.com/threejs_org?lang=fr
 - Shader spline : https://callumprentice.github.io/apps/shader_spline/index.html
 - Converting Shaders from ShaderToy : https://hackernoon.com/converting-shaders-from-shadertoy-to-threejs-fe17480ed5c6
 - Simple shader : https://iwearshorts.com/blog/simple-shader-with-threejs/
-- Glitch and RGBShift : https://codepen.io/anandu/pen/ZNWvNK?editors=0010
 - Vertex displacement with a noise function using GLSL and three.js: https://www.clicktorelease.com/blog/vertex-displacement-noise-3d-webgl-glsl-three-js/
 - OnBeforeCompile : https://stackoverflow.com/questions/58494669/pass-in-a-vector-onbefore compile-three-js
 - Chainable onBeforeCompile: https://github.com/Fyrestar/Material-Plugins
@@ -147,7 +151,6 @@ https://twitter.com/threejs_org?lang=fr
 - https://www.mapzen.com/blog/behind-the-scenes-tron2/
 - Stripes Shader : https://andreashackel.de/tech-art/stripes-shader-2/
 - Twisted Torus & Sphere : https://codepen.io/mnmxmx/pen/BdjdMz
-- Bad TV : https://github.com/felixturner/bad-tv-shader
 - Matrix : https://2pha.com/demos/threejs/shaders/matrix.html
 - Magma Shader : https://codepen.io/eroxburgh/pen/XWjapqj?editors=1010
 - Painted FBM w controls : https://codepen.io/deadlocked247/pen/ExjGmXd?editors=0010
@@ -159,9 +162,14 @@ https://twitter.com/threejs_org?lang=fr
 - Building a Custom Shader with GLSLify : https://blog.gskinner.com/archives/2019/01/custom-shader-glslify.html
 - Voronoy portal : http://xdpixel.com/category/noise/page/5/
 - https://github.com/keijiro/ShaderSketches/blob/master/Fragment/Coaxial.glsl
-- Retro shaders in GLSL : https://clemz.io/article-retro-shaders-webgl.html
 
-# ShaderToy
+## Post-processing
+- Retro shaders in GLSL : https://clemz.io/article-retro-shaders-webgl.html
+- Cheap blur : https://codesandbox.io/s/r3f-cheap-blur-znzl3?file=/src/index.js
+- Bad TV : https://github.com/felixturner/bad-tv-shader
+- Glitch and RGBShift : https://codepen.io/anandu/pen/ZNWvNK?editors=0010
+
+## ShaderToy
 - Glitches : https://www.shadertoy.com/view/XtK3W3
 - Distorted TV : https://www.shadertoy.com/view/ldXGW4
 - Barrel Blur : https://www.shadertoy.com/view/XslGz8
@@ -191,7 +199,6 @@ https://twitter.com/threejs_org?lang=fr
 - Particle vortex : https://jsfiddle.net/eso3x0ox/13/
 - Points cloud : https://codepen.io/seanseansean/pen/EaBZEY?editors=0010
 - 3D particles exploration : https://tympanus.net/codrops/2017/12/12/3d-particle-explorations/
-
 
 # Vector field
 - https://github.com/mjkaufer/3DVectorFields
@@ -228,6 +235,7 @@ https://twitter.com/threejs_org?lang=fr
 
 ## Codevember / DIGITAL INKTOBER
 - Codevember 2016 : https://www.clicktorelease.com/code/codevember-2016/
+  - Triangle tunnel : https://www.clicktorelease.com/code/codevember-2016/30/
 - Codevember 2017 : https://www.clicktorelease.com/code/codevember-2017/
 - Codevember 2019 : https://github.com/KessonDalef/Codevember_2019
 - DIGITAL INKTOBER 2020 : https://spite.github.io/sketch/
@@ -276,6 +284,8 @@ https://twitter.com/threejs_org?lang=fr
 - 3D Camera Wobble : https://github.com/pschroen/alien.js/blob/master/examples/3d_camera_wobble.html
 - Iguacel Exp 28 : https://iguacel.github.io/iguacel/#/exp/28 / https://github.com/iguacel/iguacel/blob/master/src/exp/Exp28.js
 - cru.ci.form : https://www.clicktorelease.com/blog/making-of-cruciform/
+- Twisted Colorful Spheres with Three.js : https://tympanus.net/codrops/2021/01/26/twisted-colorful-spheres-with-three-js/
+- 
 
 # Inspirations
 - https://www.thisiscolossal.com/2018/04/animation-of-sinusoidal-waves-in-gifs-by-etienne-jacob/
