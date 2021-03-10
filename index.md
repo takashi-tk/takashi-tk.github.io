@@ -53,6 +53,7 @@ https://twitter.com/threejs_org?lang=fr
 - GUIGUI : https://github.com/superguigui/guigui#dev
 - UIL : https://github.com/lo-th/uil
 - Three dat.gui : https://github.com/SolalDR/three-dat.gui
+- https://github.com/charlieroberts/interface.js
 
 # Base : 
 - 3D Cube Loop : https://codepen.io/quentinhocde/pen/qEvvba?editors=0010  
