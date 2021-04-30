@@ -286,7 +286,8 @@ https://twitter.com/threejs_org?lang=fr
 - Iguacel Exp 28 : https://iguacel.github.io/iguacel/#/exp/28 / https://github.com/iguacel/iguacel/blob/master/src/exp/Exp28.js
 - cru.ci.form : https://www.clicktorelease.com/blog/making-of-cruciform/
 - Twisted Colorful Spheres with Three.js : https://tympanus.net/codrops/2021/01/26/twisted-colorful-spheres-with-three-js/
-- 
+- https://codepen.io/ma_suwa/pen/gOgZbwR?editors=0010
+- https://codepen.io/ma_suwa/pen/eYBMWYe?editors=1010
 
 # Inspirations
 - https://www.thisiscolossal.com/2018/04/animation-of-sinusoidal-waves-in-gifs-by-etienne-jacob/
