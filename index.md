@@ -1,8 +1,7 @@
 Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 
 # Twitter
-- https://twitter.com/thespite
-- https://twitter.com/threejs_org?lang=fr
+- https://twitter.com/threejs
 
 # Applications
 - https://github.com/rivafarabi/deckboard
