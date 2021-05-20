@@ -236,6 +236,7 @@ Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 - https://github.com/gkjohnson/threejs-sandbox
 - http://www.hellochar.com/
 - yiwenl : https://github.com/yiwenl/Sketches / http://yiwenl.github.io/Sketches/
+- Charlie Hoey : https://charliehoey.com/
 
 ## Codevember / DIGITAL INKTOBER
 - Codevember 2016 : https://www.clicktorelease.com/code/codevember-2016/
