@@ -30,6 +30,7 @@ Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 - InstancedUniformsMesh : https://github.com/protectwise/troika/tree/master/packages/three-instanced-uniforms-mesh
 - three-material-editor : https://github.com/RenaudRohlinger/three-material-editor
 - GL-bench : https://github.com/munsocket/gl-bench
+- Troika _(3D Texts)_ : https://protectwise.github.io/troika/troika-three-text/
 
 ## Particles
 - Partykals : https://github.com/RonenNess/partykals
