@@ -3,6 +3,11 @@ Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 # Twitter
 - https://twitter.com/threejs
 
+ES6
+- https://stackoverflow.com/questions/37246907/possible-to-merge-or-nest-es6-imports
+- https://2ality.com/2017/01/import-operator.html
+- https://stackoverflow.com/questions/42341331/es6-promise-all-progress
+
 # Applications
 - https://github.com/rivafarabi/deckboard
 - DroidCam : https://www.dev47apps.com/
@@ -163,6 +168,7 @@ Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 - Building a Custom Shader with GLSLify : https://blog.gskinner.com/archives/2019/01/custom-shader-glslify.html
 - Voronoy portal : http://xdpixel.com/category/noise/page/5/
 - https://github.com/keijiro/ShaderSketches/blob/master/Fragment/Coaxial.glsl
+- https://threejsfundamentals.org/threejs/lessons/threejs-shadertoy.html
 
 ## Post-processing
 - Retro shaders in GLSL : https://clemz.io/article-retro-shaders-webgl.html
@@ -299,7 +305,12 @@ Threejs bookshelf : https://discourse.threejs.org/t/three-js-bookshelf/2468
 - https://gifer.com/en/3va2
 - https://giphy.com/gifs/26BRzDIHfU6ItGtRS/html5
 - https://giphy.com/gifs/loop-dark-after-effects-26gsuUjoEBmLrNBxC
+
 - https://www.behance.net/nicolaslopardo
+- https://www.behance.net/gallery/72889599/Yanobox-Nodes-3-plugin-for-After-Effects
+- http://www.pedroramos.co.uk/#/lab-ui/
+- https://collektor.tumblr.com/image/630578707927547904
+- https://a-na5.tumblr.com/post/630946505418817536/20200209-code-i-could-tweet
 
 # Font
 - Datalegreya : https://github.com/figs-lab/datalegreya
